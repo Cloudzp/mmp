@@ -8,4 +8,5 @@
 - 日志采集
 
 ## 应用列表页
+
 ![](doc/example_app_list.png)
